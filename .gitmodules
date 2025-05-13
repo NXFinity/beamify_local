@@ -1,0 +1,12 @@
+[submodule "beamify_application"]
+	path = beamify_application
+	url = https://github.com/NXFinity/beamify_application
+[submodule "beamify_server"]
+	path = beamify_server
+	url = https://github.com/NXFinity/beamify_server
+[submodule "beamify_docs"]
+	path = beamify_docs
+	url = https://github.com/NXFinity/beamify_docs
+[submodule "beamify_chat"]
+	path = beamify_chat
+	url = https://github.com/NXFinity/beamify_chat
